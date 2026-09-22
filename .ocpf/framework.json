@@ -1,0 +1,18 @@
+{
+  "framework": "OCPF BC Agentic Development Framework",
+  "edition": "lite",
+  "runbookVersion": "3.0.0.0",
+  "source": "github",
+  "repository": "https://github.com/ajansari/ocpfBcAgenticDevFramework",
+  "ref": "main",
+  "commitSha": "0921e5b6e3713d1744e9b768348b618f80509101",
+  "fetchedAt": "2026-09-21T00:00:00Z",
+  "placedAs": [
+    ".github/copilot-instructions.md",
+    ".github/instructions/ocpf-framework.instructions.md"
+  ],
+  "changelogFile": "LITE_RunbookChangeLog.md",
+  "pluginVersion": "3.0.0",
+  "declinedUpdateVersion": null,
+  "alMcp": "al-extension-tools"
+}
